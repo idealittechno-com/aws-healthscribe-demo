@@ -144,7 +144,7 @@ export default function TopNav() {
                 identity={{
                     href: '/',
                     title: 'Transcription Services',
-                    logoSrc: <div style={{ height: '65px' }}><img src='/logo.png' style={{ height: '100%' }} alt='My Company Logo' /></div>,
+                    logo: '/logo.png',
 
                 }}
                 utilities={navUtils}
