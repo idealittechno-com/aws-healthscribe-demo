@@ -25,10 +25,10 @@ function Welcome() {
             <main className={styles.mainContents}>
                 <SpaceBetween size={'l'}>
                     {!isUserAuthenticated && <Alert type="info">Log in for full functionality.</Alert>}
-                    <Overview />
-                    <Highlights />
+                    {/*<Overview />
+                     <Highlights />
                     <Details />
-                    <Footer />
+                    <Footer /> */}
                 </SpaceBetween>
             </main>
         </ContentLayout>

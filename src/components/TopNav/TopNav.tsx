@@ -143,7 +143,9 @@ export default function TopNav() {
             <TopNavigation
                 identity={{
                     href: '/',
-                    title: 'Active Rockland Transcription Services',
+                    title: 'Transcription Services',
+                    logoSrc: <div style={{ height: '65px' }}><img src='/logo.png' style={{ height: '100%' }} alt='My Company Logo' /></div>,
+
                 }}
                 utilities={navUtils}
             />

@@ -94,7 +94,7 @@ export function Footer() {
     return (
         <Container>
             <Box textAlign="center" color="text-body-secondary" fontSize="body-s">
-                <p>Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.</p>
+                {/* <p>Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.</p>
                 <p>
                     Permission is hereby granted, free of charge, to any person obtaining a copy of this software and
                     associated documentation files (the &quot;Software&quot;), to deal in the Software without
@@ -108,7 +108,7 @@ export function Footer() {
                     NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES
                     OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
                     CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-                </p>
+                </p> */}
             </Box>
         </Container>
     );

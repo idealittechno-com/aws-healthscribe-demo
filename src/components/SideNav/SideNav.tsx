@@ -29,30 +29,30 @@ export default function SideNav() {
             href: '/generate',
         },
         { type: 'divider' },
-        {
-            type: 'link',
-            text: 'Settings',
-            href: '/settings',
-        },
-        { type: 'divider' },
-        {
-            type: 'link',
-            text: 'AWS HealthScribe',
-            href: 'https://aws.amazon.com/healthscribe',
-            external: true,
-        },
-        {
-            type: 'link',
-            text: 'AWS for Health',
-            href: 'https://aws.amazon.com/health',
-            external: true,
-        },
-        {
-            type: 'link',
-            text: 'Amazon Web Services',
-            href: 'https://aws.amazon.com',
-            external: true,
-        },
+        // {
+        //     type: 'link',
+        //     text: 'Settings',
+        //     href: '/settings',
+        // },
+        // { type: 'divider' },
+        // {
+        //     type: 'link',
+        //     text: 'AWS HealthScribe',
+        //     href: 'https://aws.amazon.com/healthscribe',
+        //     external: true,
+        // },
+        // {
+        //     type: 'link',
+        //     text: 'AWS for Health',
+        //     href: 'https://aws.amazon.com/health',
+        //     external: true,
+        // },
+        // {
+        //     type: 'link',
+        //     text: 'Amazon Web Services',
+        //     href: 'https://aws.amazon.com',
+        //     external: true,
+        // },
     ];
 
     return (
