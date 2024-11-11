@@ -47,7 +47,7 @@ export default function WelcomeHeader() {
             >
                 <SpaceBetween size="xl">
                     <Box fontSize="display-l" fontWeight="bold">
-                    Transcription Services
+                        Transcription Services
                     </Box>
                 </SpaceBetween>
 

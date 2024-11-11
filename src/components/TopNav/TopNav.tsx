@@ -144,8 +144,10 @@ export default function TopNav() {
                 identity={{
                     href: '/',
                     title: 'Transcription Services',
-                    logo: '/logo.png',
-
+                    logo: {
+                        src: '/logo.png',
+                        alt: 'Active Rockland',
+                      },
                 }}
                 utilities={navUtils}
             />
